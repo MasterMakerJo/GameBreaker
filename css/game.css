@@ -1,0 +1,15 @@
+#tt{
+	position: absolute;
+	left: 100px;
+	top: 20px;
+	background: orange;
+	padding: 10px;
+	font-family: courier;
+	font-size: 20px;
+	border-radius: 10px;
+	
+}
+*{
+	margin: 0;
+	padding: 0;
+}
